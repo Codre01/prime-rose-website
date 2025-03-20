@@ -1,0 +1,186 @@
+	<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/DRESSING FRAME WITH NUR 1.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/ASSEMBLY-HALL 2.JPG" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/ASSEMBLY-HALL.JPG" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/BALLET-2.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/NUR-2-CLASS-PIX-7.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/RECEPTION-23.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+
+					<div class="col-md-6 col-lg-3">	<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/RECEPTION-13.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/SCIENCE-LAB-2.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/SCIENCE-LAB.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/TAEKWONDO-2.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/YEAR-3-CLASS-PIX-33.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+
+
+
+
+
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/YEAR-3-CLASS-PIX-33.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/YEAR-3-CLASS-PIX-45.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/YEAR 4 CLASS PIX 33.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/YEAR 5 PIX 2.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/YELLOW-HOUSE.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/HEAD START.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
+					<div class="col-md-6 col-lg-3">
+						<div class="gallery-one__card">
+							<img src="assets/images/img2/ICT-4.jpg" alt="">
+							<div class="gallery-one__card__hover">
+								<a href="assets/images/primerose/35.jpg" class="img-popup">
+									<span class="gallery-one__card__icon"></span>
+								</a>
+							</div><!-- /.gallery-one__card__hover -->
+						</div><!-- /.gallery-one__card -->
+					</div><!-- /.col-md-6 col-lg-4 -->
